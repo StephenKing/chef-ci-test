@@ -2,6 +2,7 @@
 driver:
   name: docker
   use_sudo: false
+  socker: tcp://127.0.0.1:4243
 
 provisioner:
   name: chef_zero
