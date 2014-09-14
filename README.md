@@ -5,3 +5,5 @@ TODO: Enter the cookbook description here.
 FOO
 
 Bar
+
+Baz
