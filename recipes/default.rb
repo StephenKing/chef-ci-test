@@ -8,4 +8,3 @@
 #
 
 a = node[:foo]
-b = node['bar']
